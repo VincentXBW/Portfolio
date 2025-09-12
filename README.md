@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my projects, experiments, and explorations in coding, retro computing, Linux, and more.
 
 ## 🚀 Live Demo
-You can view the live portfolio here: [Vincent's Portfolio](#)
+You can view the live portfolio here: [Vincent's Portfolio](https://VincentXBW.github.io/Portfolio)
 
 ## 📂 Projects
 Here are some of the projects featured:
