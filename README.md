@@ -38,14 +38,5 @@ Here are some of the projects featured:
 - Clean layout with hover effects and project cards
 - Ready to link to GitHub Pages projects once deployed
 
-## 📜 Deployment
-This site is hosted with **GitHub Pages**. To deploy:
-1. Fork or clone this repository.
-2. Ensure your main HTML file is named `index.html` and in the root directory.
-3. Commit and push your changes.
-4. Go to your repository **Settings → Pages**.
-5. Under *Source*, choose **Deploy from a branch** → `main` → `/ (root)`.
-6. Save, and your site will be live at: `https://<username>.github.io/<repo-name>/`
-
 ## 👨‍💻 Author
 Built with ❤️ by **Vincent** (VincentXBW)
